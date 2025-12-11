@@ -125,7 +125,6 @@ zyenta/
 ├── apps/
 │   ├── dashboard/          # Next.js Client Dashboard
 │   ├── storefront/         # Headless Storefront Template
-│   ├── docs/               # Documentation
 ├── services/
 │   ├── genesis-engine/     # Python: Brand, Copy, Scout Agents
 │   ├── media-studio/       # Python: Image/Video Generation Pipeline
@@ -135,7 +134,10 @@ zyenta/
 │   ├── database/           # Prisma/Postgres Schema
 │   ├── queue/              # Redis/BullMQ config
 │   ├── ui/                 # Shared React Components
+├── docs/                   # Project Documentation
+│   └── PHASE1_EXECUTION_PLAN.md
 ├── infra/                  # Terraform & K8s Manifests
+├── LICENSE                 # MIT License
 └── README.md
 ```
 
@@ -145,5 +147,6 @@ We are currently in Closed Alpha. To request access to the codebase or contribut
 
 ## 📄 License
 
-This project is proprietary software. Licensing details to be determined upon public release.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Built by the Zyenta Team.
