@@ -135,7 +135,8 @@ zyenta/
 │   ├── queue/              # Redis/BullMQ config
 │   ├── ui/                 # Shared React Components
 ├── docs/                   # Project Documentation
-│   └── PHASE1_EXECUTION_PLAN.md
+│   ├── PHASE1_EXECUTION_PLAN.md
+│   └── SPRINT1_FOUNDATION_ACTION_PLAN.md
 ├── infra/                  # Terraform & K8s Manifests
 ├── LICENSE                 # MIT License
 └── README.md
