@@ -138,7 +138,8 @@ zyenta/
 │   ├── PHASE1_EXECUTION_PLAN.md
 │   ├── SPRINT1_FOUNDATION_ACTION_PLAN.md
 │   ├── SPRINT2_GENESIS_ENGINE_ACTION_PLAN.md
-│   └── SPRINT3_MEDIA_STUDIO_ACTION_PLAN.md
+│   ├── SPRINT3_MEDIA_STUDIO_ACTION_PLAN.md
+│   └── SPRINT4_DASHBOARD_MVP_ACTION_PLAN.md
 ├── infra/                  # Terraform & K8s Manifests
 ├── LICENSE                 # MIT License
 └── README.md
