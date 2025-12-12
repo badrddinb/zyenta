@@ -125,7 +125,6 @@ zyenta/
 ├── apps/
 │   ├── dashboard/          # Next.js Client Dashboard
 │   ├── storefront/         # Headless Storefront Template
-│   ├── docs/               # Documentation
 ├── services/
 │   ├── genesis-engine/     # Python: Brand, Copy, Scout Agents
 │   ├── media-studio/       # Python: Image/Video Generation Pipeline
@@ -135,7 +134,20 @@ zyenta/
 │   ├── database/           # Prisma/Postgres Schema
 │   ├── queue/              # Redis/BullMQ config
 │   ├── ui/                 # Shared React Components
+├── docs/                   # Project Documentation
+│   ├── PHASE1_EXECUTION_PLAN.md
+│   ├── PHASE2_EXECUTION_PLAN.md
+│   ├── PHASE3_EXECUTION_PLAN.md
+│   ├── PHASE4_EXECUTION_PLAN.md
+│   ├── PHASE2_SPRINT1_INVENTORY_SYNC_ACTION_PLAN.md
+│   ├── SPRINT1_FOUNDATION_ACTION_PLAN.md
+│   ├── SPRINT2_GENESIS_ENGINE_ACTION_PLAN.md
+│   ├── SPRINT3_MEDIA_STUDIO_ACTION_PLAN.md
+│   ├── SPRINT4_DASHBOARD_MVP_ACTION_PLAN.md
+│   ├── SPRINT5_STOREFRONT_PAYMENTS_ACTION_PLAN.md
+│   └── SPRINT6_INTEGRATION_POLISH_ACTION_PLAN.md
 ├── infra/                  # Terraform & K8s Manifests
+├── LICENSE                 # MIT License
 └── README.md
 ```
 
@@ -145,5 +157,6 @@ We are currently in Closed Alpha. To request access to the codebase or contribut
 
 ## 📄 License
 
-This project is proprietary software. Licensing details to be determined upon public release.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Built by the Zyenta Team.
