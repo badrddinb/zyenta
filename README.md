@@ -155,7 +155,13 @@ zyenta/
 │   ├── PHASE3_SPRINT3_SOCIAL_AGENT_ADVANCED_ACTION_PLAN.md   # P3S3: Social Agent Advanced
 │   ├── PHASE3_SPRINT4_ADS_AGENT_CORE_ACTION_PLAN.md          # P3S4: Ads Agent Core
 │   ├── PHASE3_SPRINT5_ADS_AGENT_ADVANCED_ACTION_PLAN.md      # P3S5: Ads Agent Advanced
-│   └── PHASE3_SPRINT6_INTEGRATION_POLISH_ACTION_PLAN.md      # P3S6: Integration & Polish
+│   ├── PHASE3_SPRINT6_INTEGRATION_POLISH_ACTION_PLAN.md      # P3S6: Integration & Polish
+│   ├── PHASE4_SPRINT1_SEO_FOUNDATION_ACTION_PLAN.md          # P4S1: SEO Foundation
+│   ├── PHASE4_SPRINT2_ARTICLE_GENERATION_ACTION_PLAN.md      # P4S2: Article Generation
+│   ├── PHASE4_SPRINT3_SEO_PUBLISHING_ANALYTICS_ACTION_PLAN.md # P4S3: SEO Publishing & Analytics
+│   ├── PHASE4_SPRINT4_INFLUENCER_DISCOVERY_ACTION_PLAN.md    # P4S4: Influencer Discovery
+│   ├── PHASE4_SPRINT5_INFLUENCER_OUTREACH_ACTION_PLAN.md     # P4S5: Influencer Outreach
+│   └── PHASE4_SPRINT6_INTEGRATION_ANALYTICS_ACTION_PLAN.md   # P4S6: Integration & Analytics
 ├── infra/                  # Terraform & K8s Manifests
 ├── LICENSE                 # MIT License
 └── README.md
