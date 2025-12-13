@@ -154,7 +154,8 @@ zyenta/
 │   ├── PHASE3_SPRINT2_SOCIAL_AGENT_CORE_ACTION_PLAN.md       # P3S2: Social Agent Core
 │   ├── PHASE3_SPRINT3_SOCIAL_AGENT_ADVANCED_ACTION_PLAN.md   # P3S3: Social Agent Advanced
 │   ├── PHASE3_SPRINT4_ADS_AGENT_CORE_ACTION_PLAN.md          # P3S4: Ads Agent Core
-│   └── PHASE3_SPRINT5_ADS_AGENT_ADVANCED_ACTION_PLAN.md      # P3S5: Ads Agent Advanced
+│   ├── PHASE3_SPRINT5_ADS_AGENT_ADVANCED_ACTION_PLAN.md      # P3S5: Ads Agent Advanced
+│   └── PHASE3_SPRINT6_INTEGRATION_POLISH_ACTION_PLAN.md      # P3S6: Integration & Polish
 ├── infra/                  # Terraform & K8s Manifests
 ├── LICENSE                 # MIT License
 └── README.md
