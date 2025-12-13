@@ -150,7 +150,8 @@ zyenta/
 │   ├── PHASE2_SPRINT3_FULFILLMENT_ORCHESTRATOR_ACTION_PLAN.md # P2S3: Fulfillment
 │   ├── PHASE2_SPRINT4_VIDEO_GENERATION_ACTION_PLAN.md        # P2S4: Video Generation
 │   ├── PHASE2_SPRINT5_INTEGRATION_TESTING_ACTION_PLAN.md     # P2S5: Integration & Testing
-│   └── PHASE3_SPRINT1_OAUTH_FOUNDATION_ACTION_PLAN.md        # P3S1: OAuth Foundation
+│   ├── PHASE3_SPRINT1_OAUTH_FOUNDATION_ACTION_PLAN.md        # P3S1: OAuth Foundation
+│   └── PHASE3_SPRINT2_SOCIAL_AGENT_CORE_ACTION_PLAN.md       # P3S2: Social Agent Core
 ├── infra/                  # Terraform & K8s Manifests
 ├── LICENSE                 # MIT License
 └── README.md
