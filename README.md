@@ -135,17 +135,21 @@ zyenta/
 │   ├── queue/              # Redis/BullMQ config
 │   ├── ui/                 # Shared React Components
 ├── docs/                   # Project Documentation
-│   ├── PHASE1_EXECUTION_PLAN.md
-│   ├── PHASE2_EXECUTION_PLAN.md
-│   ├── PHASE3_EXECUTION_PLAN.md
-│   ├── PHASE4_EXECUTION_PLAN.md
-│   ├── PHASE2_SPRINT1_INVENTORY_SYNC_ACTION_PLAN.md
-│   ├── SPRINT1_FOUNDATION_ACTION_PLAN.md
-│   ├── SPRINT2_GENESIS_ENGINE_ACTION_PLAN.md
-│   ├── SPRINT3_MEDIA_STUDIO_ACTION_PLAN.md
-│   ├── SPRINT4_DASHBOARD_MVP_ACTION_PLAN.md
-│   ├── SPRINT5_STOREFRONT_PAYMENTS_ACTION_PLAN.md
-│   └── SPRINT6_INTEGRATION_POLISH_ACTION_PLAN.md
+│   ├── PHASE1_EXECUTION_PLAN.md          # Phase 1 Master Plan
+│   ├── PHASE2_EXECUTION_PLAN.md          # Phase 2 Master Plan
+│   ├── PHASE3_EXECUTION_PLAN.md          # Phase 3 Master Plan
+│   ├── PHASE4_EXECUTION_PLAN.md          # Phase 4 Master Plan
+│   ├── SPRINT1_FOUNDATION_ACTION_PLAN.md           # P1S1: Foundation
+│   ├── SPRINT2_GENESIS_ENGINE_ACTION_PLAN.md       # P1S2: Genesis Engine
+│   ├── SPRINT3_MEDIA_STUDIO_ACTION_PLAN.md         # P1S3: Media Studio
+│   ├── SPRINT4_DASHBOARD_MVP_ACTION_PLAN.md        # P1S4: Dashboard MVP
+│   ├── SPRINT5_STOREFRONT_PAYMENTS_ACTION_PLAN.md  # P1S5: Storefront & Payments
+│   ├── SPRINT6_INTEGRATION_POLISH_ACTION_PLAN.md   # P1S6: Integration & Polish
+│   ├── PHASE2_SPRINT1_INVENTORY_SYNC_ACTION_PLAN.md          # P2S1: Inventory Sync
+│   ├── PHASE2_SPRINT2_PRICE_MANAGEMENT_ACTION_PLAN.md        # P2S2: Price Management
+│   ├── PHASE2_SPRINT3_FULFILLMENT_ORCHESTRATOR_ACTION_PLAN.md # P2S3: Fulfillment
+│   ├── PHASE2_SPRINT4_VIDEO_GENERATION_ACTION_PLAN.md        # P2S4: Video Generation
+│   └── PHASE2_SPRINT5_INTEGRATION_TESTING_ACTION_PLAN.md     # P2S5: Integration & Testing
 ├── infra/                  # Terraform & K8s Manifests
 ├── LICENSE                 # MIT License
 └── README.md
